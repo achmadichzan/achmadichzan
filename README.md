@@ -35,7 +35,7 @@ Saya seorang pengembang yang gemar membangun aplikasi lintas platform dan sistem
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=achmadichzan&show_icons=true&locale=id&show_owner=true&hide=prs,issues,contribs&commits_year=2025&theme=github_dark#gh-dark-mode-only" alt="Ichzan's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=achmadichzan&show_icons=true&locale=id&show_owner=true&hide=prs,issues,contribs&theme=github_dark#gh-dark-mode-only" alt="Ichzan's GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadichzan&langs_count=7&layout=compact" alt="Top Languages">
 </p>
 
