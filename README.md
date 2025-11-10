@@ -1,8 +1,9 @@
-## Hi there, I'm Achmad Ichzan 👋
+## Halo, Saya Achmad Ichzan 👋
 
 ![Achmad Ichzan Banner](img/1500x500.png)
 
-🎯 **About Me**
+🎯### **About Me**
+
 Saya seorang pengembang yang gemar membangun aplikasi lintas platform dan sistem cerdas — mulai dari **Rust CLI tools**, **aplikasi Android dengan Kotlin + Jetpack Compose**, hingga **model Machine Learning/Deep Learning dengan Python**. Saya percaya bahwa kode yang baik bukan hanya berfungsi, tapi juga elegan, efisien, dan mudah dipelajari kembali.
 
 ---
