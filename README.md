@@ -3,6 +3,7 @@
 ![Achmad Ichzan Banner](img/1500x500.webp)
 
 ### 🎯 About Me
+
 Saya seorang pengembang yang gemar membangun aplikasi lintas platform dan sistem cerdas — mulai dari **Rust CLI tools**, **aplikasi Android dengan Kotlin + Jetpack Compose**, hingga **model Machine Learning/Deep Learning dengan Python**. Saya percaya bahwa kode yang baik bukan hanya berfungsi, tapi juga elegan, efisien, dan mudah dipelajari kembali.
 
 ---
@@ -31,15 +32,16 @@ Saya seorang pengembang yang gemar membangun aplikasi lintas platform dan sistem
 </p>
 
 ---
-![Stats](./profile/stats.svg)
+
 ### 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=achmadichzan&show_icons=true&theme=holi" alt="Achmad Ichzan's GitHub stats" />
-  </a>
-  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadichzan&layout=compact&langs_count=8" alt="Top Langs" />
-  </a>
+  <img src="./profile/stats.svg" height="180" alt="Stats" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="./profile/pin-repo.svg" height="140" alt="Pinned Repo" />
 </p>
 
 ---
