@@ -31,7 +31,7 @@ Saya seorang pengembang yang gemar membangun aplikasi lintas platform dan sistem
 </p>
 
 ---
-
+![Stats](./profile/stats.svg)
 ### 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
