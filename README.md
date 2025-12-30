@@ -37,10 +37,7 @@ Saya seorang pengembang yang gemar membangun aplikasi lintas platform dan sistem
 
 <p align="center">
   <img src="./profile/stats.svg" height="180" alt="Stats" />
-  &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
-</p>
-<p align="center">
   <img src="./profile/pin-readme-tools-github-readme-stats.svg" height="140" alt="Pinned Repo" />
 </p>
 
